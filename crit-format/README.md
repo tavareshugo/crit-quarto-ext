@@ -17,7 +17,7 @@ quarto add cambiotraining/crit-quarto-ext/crit-format
 The following should be added to `_quarto.yml`:
 
 ```yaml
-format: crit-format
+format: crit-format-html
 ```
 
 TODO: further details about logo, favicon, footer, etc.
